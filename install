@@ -12,7 +12,7 @@
 # Description: Execute this script after been downloaded (i.e. with curl) to install all the programs and files to the required locations to be used.
 #              The right way should be: curl -s http://cs.johandry.com/install | bash
 #
-# Report Issues or create Pull Requests in http://github.com/johandry/
+# Report Issues or create Pull Requests in http://github.com/johandry/CS
 #=======================================================================================================
 
 GITHUB_RAW="https://raw.githubusercontent.com/johandry"
